@@ -302,6 +302,7 @@
   color: #007ab3;
   outline: none;
   width: 100%;
+  background-color: white;
 }
 .quiz-box-form input::placeholder {
   color: #007ab3;
